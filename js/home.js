@@ -1,0 +1,1 @@
+"use strict";function getCookie(o){for(var e=document.cookie.split("; "),t=0;t<e.length;t++)e[t].split("=")[0]==o&&console.log(e[t].split("=")[1])}getCookie(one);
